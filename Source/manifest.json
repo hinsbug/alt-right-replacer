@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Millennials Begone!",
+	"name": "Alt-Right Replacer",
 	"version": "1.0",
-	"description": "Replaces the text 'millennial' with 'pesky whipper-snapper'.",
+	"description": "Friendly reminder that the alt-right is a neo-Nazi movement!",
 	"content_scripts": 
 	[
 		{
